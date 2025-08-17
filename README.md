@@ -1,4 +1,3 @@
-Got it 👍 — here’s a **general-purpose README** that works for backing up *any file or folder*, not just Minecraft:
 
 ```markdown
 # File Backup Script
