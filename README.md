@@ -58,5 +58,3 @@ It is useful for keeping safe copies of documents, projects, saves, or any other
 ---
 
 ✅ Useful for keeping safe versions of any file (documents, code, saves, etc.) with a simple timestamped backup system.
-
-```
